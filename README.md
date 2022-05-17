@@ -8,7 +8,7 @@ This program want do check folders and files, background controls and alert user
 
 git clone https://github.com/0x07CB/control-signatures-auto.git
 cd control-signatures-auto.git
-#bash install.sh
+# bash install.sh
 
 ```
 ## USAGE
